@@ -57,4 +57,4 @@ Pull requests are welcome! If you'd like to improve the AI Grammar Checker, feel
 This project is licensed under the MIT License.
 
 ## Author
-Developed by [Your Name]
+Developed by **YUKESH P**
